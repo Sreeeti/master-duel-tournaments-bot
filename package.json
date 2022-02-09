@@ -1,0 +1,16 @@
+{
+  "name": "master-duel-tournaments-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "startTest"
+  },
+  "author": "Sreti",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "node": "^17.4.0"
+  }
+}
